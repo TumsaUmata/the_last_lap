@@ -13,6 +13,7 @@
     <SUITE FILE_PATH="coverage/The_Last_Lap$intersection_of_two_arrays_ii.coverage" NAME="intersection-of-two-arrays-ii Coverage Results" MODIFIED="1583749333290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$alternating_characters.coverage" NAME="alternating-characters Coverage Results" MODIFIED="1583716485841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$balanced_brackets.coverage" NAME="balanced-brackets Coverage Results" MODIFIED="1583631531523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stack" />
+    <SUITE FILE_PATH="coverage/The_Last_Lap$firs_unique_character_in_a_string.coverage" NAME="firs-unique-character-in-a-string Coverage Results" MODIFIED="1583756096368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$array_manipulation.coverage" NAME="array-manipulation Coverage Results" MODIFIED="1583680932108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$group_anagrams.coverage" NAME="group-anagrams Coverage Results" MODIFIED="1583739813757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$sherlock_and_the_valid_string.coverage" NAME="sherlock-and-the-valid-string Coverage Results" MODIFIED="1583720747905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
@@ -37,11 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HashMap/unique-email-addresses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HashMap/firs-unique-character-in-a-string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -76,6 +86,7 @@
         <option value="$PROJECT_DIR$/HashMap/intersection_of_two_arrays.py" />
         <option value="$PROJECT_DIR$/HashMap/intersection-of-two-arrays-ii.py" />
         <option value="$PROJECT_DIR$/HashMap/unique-email-addresses.py" />
+        <option value="$PROJECT_DIR$/HashMap/firs-unique-character-in-a-string.py" />
       </list>
     </option>
   </component>
@@ -135,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.intersection-of-two-arrays-ii">
+  <component name="RunManager" selected="Python.firs-unique-character-in-a-string">
     <configuration name="alternating-characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The Last Lap" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array-manipulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="firs-unique-character-in-a-string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The Last Lap" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,12 +177,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HashMap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/array-manipulation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashMap/firs-unique-character-in-a-string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.firs-unique-character-in-a-string" />
         <item itemvalue="Python.intersection-of-two-arrays-ii" />
         <item itemvalue="Python.group-anagrams" />
         <item itemvalue="Python.sherlock-and-the-valid-string" />
         <item itemvalue="Python.alternating-characters" />
-        <item itemvalue="Python.array-manipulation" />
       </list>
     </recent_temporary>
   </component>
@@ -270,12 +281,12 @@
       <workItem from="1583666304372" duration="870000" />
       <workItem from="1583679678690" duration="4161000" />
       <workItem from="1583715279524" duration="6977000" />
-      <workItem from="1583735877902" duration="12693000" />
+      <workItem from="1583735877902" duration="14486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30713000" />
+    <option name="totallyTimeSpent" value="32506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -408,8 +419,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HashMap/unique-email-addresses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashMap/firs-unique-character-in-a-string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
         </state>
       </provider>
     </entry>
