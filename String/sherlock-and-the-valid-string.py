@@ -28,3 +28,8 @@ def isValid(s):
                 return "NO"
         else:
             return "NO"
+
+
+"""
+In case of "Test 4": aabbc There's only one 'c', which can be removed, making it result to 'YES'.
+"""
