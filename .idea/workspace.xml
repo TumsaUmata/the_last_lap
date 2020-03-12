@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6efd5817-421b-49f1-9a45-dd7d6ba46f49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/number_of_operations_to_make_network_connected.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/number_of_operations_to_make_network_connected.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/tumsa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/tumsa.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/longest_increasing_subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/longest_increasing_subsequence.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,15 +33,15 @@
     <SUITE FILE_PATH="coverage/The_Last_Lap$array_manipulation.coverage" NAME="array-manipulation Coverage Results" MODIFIED="1583680932108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$group_anagrams.coverage" NAME="group-anagrams Coverage Results" MODIFIED="1583777184751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$number_of_closed_islands.coverage" NAME="number_of_closed_islands Coverage Results" MODIFIED="1583924169925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
-    <SUITE FILE_PATH="coverage/The_Last_Lap$longest_increasing_subsequence.coverage" NAME="longest_increasing_subsequence Coverage Results" MODIFIED="1583981341184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
+    <SUITE FILE_PATH="coverage/The_Last_Lap$longest_increasing_subsequence.coverage" NAME="longest_increasing_subsequence Coverage Results" MODIFIED="1584012537444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Graph/number_of_operations_to_make_network_connected.py">
+        <entry file="file://$PROJECT_DIR$/DP/longest_increasing_subsequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="88" column="32" selection-start-line="88" selection-start-column="32" selection-end-line="88" selection-end-column="32" />
+            <state relative-caret-position="270">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -93,8 +92,8 @@
         <option value="$PROJECT_DIR$/Graph/word_search.py" />
         <option value="$PROJECT_DIR$/Graph/max_area_of_island.py" />
         <option value="$PROJECT_DIR$/Graph/word_ladder.py" />
-        <option value="$PROJECT_DIR$/DP/longest_increasing_subsequence.py" />
         <option value="$PROJECT_DIR$/Graph/number_of_operations_to_make_network_connected.py" />
+        <option value="$PROJECT_DIR$/DP/longest_increasing_subsequence.py" />
       </list>
     </option>
   </component>
@@ -119,6 +118,11 @@
             <path>
               <item name="The Last Lap" type="b2602c69:ProjectViewProjectNode" />
               <item name="The Last Lap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Last Lap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Last Lap" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.number_of_operations_to_make_network_connected">
+  <component name="RunManager" selected="Python.longest_increasing_subsequence">
     <configuration name="longest_increasing_subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The Last Lap" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,8 +269,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.number_of_operations_to_make_network_connected" />
         <item itemvalue="Python.longest_increasing_subsequence" />
+        <item itemvalue="Python.number_of_operations_to_make_network_connected" />
         <item itemvalue="Python.max_area_of_island" />
         <item itemvalue="Python.word_search" />
         <item itemvalue="Python.surrounded_regions" />
@@ -295,22 +299,23 @@
       <workItem from="1583910048627" duration="13810000" />
       <workItem from="1583942609782" duration="8711000" />
       <workItem from="1583980562461" duration="2136000" />
-      <workItem from="1583996464328" duration="5731000" />
+      <workItem from="1583996464328" duration="10356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76515000" />
+    <option name="totallyTimeSpent" value="81140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30227274" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -547,17 +552,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Graph/word_ladder.py" />
-    <entry file="file://$PROJECT_DIR$/DP/longest_increasing_subsequence.py">
+    <entry file="file://$PROJECT_DIR$/Graph/number_of_operations_to_make_network_connected.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="457">
+          <caret line="62" column="41" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/number_of_operations_to_make_network_connected.py">
+    <entry file="file://$PROJECT_DIR$/DP/longest_increasing_subsequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="88" column="32" selection-start-line="88" selection-start-column="32" selection-end-line="88" selection-end-column="32" />
+        <state relative-caret-position="270">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
