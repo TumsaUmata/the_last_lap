@@ -19,13 +19,14 @@
     <SUITE FILE_PATH="coverage/The_Last_Lap$group_anagrams.coverage" NAME="group-anagrams Coverage Results" MODIFIED="1583777184751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$number_of_closed_islands.coverage" NAME="number_of_closed_islands Coverage Results" MODIFIED="1583924169925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$longest_increasing_subsequence.coverage" NAME="longest_increasing_subsequence Coverage Results" MODIFIED="1584012537444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
-    <SUITE FILE_PATH="coverage/The_Last_Lap$longest_palindromic_subsequence.coverage" NAME="longest_palindromic_subsequence Coverage Results" MODIFIED="1584042315717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
+    <SUITE FILE_PATH="coverage/The_Last_Lap$longest_palindromic_subsequence.coverage" NAME="longest_palindromic_subsequence Coverage Results" MODIFIED="1584046544174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$balanced_brackets.coverage" NAME="balanced-brackets Coverage Results" MODIFIED="1583631531523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stack" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$longest_palindromic_substring.coverage" NAME="longest_palindromic_substring Coverage Results" MODIFIED="1584039142374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$ransom_note.coverage" NAME="ransom-note Coverage Results" MODIFIED="1583758710398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$sherlock_and_the_valid_string.coverage" NAME="sherlock-and-the-valid-string Coverage Results" MODIFIED="1583720747905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$new_year_chaos.coverage" NAME="new-year-chaos Coverage Results" MODIFIED="1583666618532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$counter.coverage" NAME="counter Coverage Results" MODIFIED="1583857274074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/The_Last_Lap$unique_path.coverage" NAME="unique_path Coverage Results" MODIFIED="1584048016231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$sorted.coverage" NAME="sorted Coverage Results" MODIFIED="1583847187296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$surrounded_regions.coverage" NAME="surrounded_regions Coverage Results" MODIFIED="1583930602877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$house_robber_ii.coverage" NAME="house_robber_ii Coverage Results" MODIFIED="1584021316065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
@@ -39,10 +40,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DP/longest_palindromic_subsequence.py">
+        <entry file="file://$PROJECT_DIR$/DP/unique_path.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -102,6 +103,7 @@
         <option value="$PROJECT_DIR$/DP/longest_palindromic_substring.py" />
         <option value="$PROJECT_DIR$/DP/palindromic_substrings.py" />
         <option value="$PROJECT_DIR$/DP/longest_palindromic_subsequence.py" />
+        <option value="$PROJECT_DIR$/DP/unique_path.py" />
       </list>
     </option>
   </component>
@@ -164,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.longest_palindromic_subsequence">
+  <component name="RunManager" selected="Python.unique_path">
     <configuration name="house_robber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The Last Lap" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,28 +203,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/house_robber_ii.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="longest_increasing_subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="The Last Lap" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/longest_increasing_subsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,13 +255,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="unique_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="The Last Lap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/unique_path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.unique_path" />
         <item itemvalue="Python.longest_palindromic_subsequence" />
         <item itemvalue="Python.longest_palindromic_substring" />
         <item itemvalue="Python.house_robber_ii" />
         <item itemvalue="Python.house_robber" />
-        <item itemvalue="Python.longest_increasing_subsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -308,23 +310,23 @@
       <workItem from="1583942609782" duration="8711000" />
       <workItem from="1583980562461" duration="2136000" />
       <workItem from="1583996464328" duration="16264000" />
-      <workItem from="1584035033757" duration="3957000" />
+      <workItem from="1584035033757" duration="7886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91005000" />
+    <option name="totallyTimeSpent" value="94934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3068182" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3068182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -614,7 +616,14 @@
     <entry file="file://$PROJECT_DIR$/DP/longest_palindromic_subsequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/unique_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
