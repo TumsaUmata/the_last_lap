@@ -1,3 +1,6 @@
+""""https://leetcode.com/problems/longest-increasing-subsequence/discuss/152065/Python-explain-the-O(nlogn)-solution-step-by-step"""
+"""https://leetcode.com/problems/longest-increasing-subsequence/discuss/74824/JavaPython-Binary-search-O(nlogn)-time-with-explanation"""
+
 class Solution:
     def lengthOfLIS(self, nums) -> int:
         """O(N^2)"""

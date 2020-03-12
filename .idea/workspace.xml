@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6efd5817-421b-49f1-9a45-dd7d6ba46f49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/tumsa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/tumsa.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DP/longest_increasing_subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/longest_increasing_subsequence.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DP/longest_increasing_subsequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="195">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -93,6 +92,7 @@
         <option value="$PROJECT_DIR$/Graph/max_area_of_island.py" />
         <option value="$PROJECT_DIR$/Graph/word_ladder.py" />
         <option value="$PROJECT_DIR$/Graph/number_of_operations_to_make_network_connected.py" />
+        <option value="$PROJECT_DIR$/DP/longest_triplet_subsequence.py" />
         <option value="$PROJECT_DIR$/DP/longest_increasing_subsequence.py" />
       </list>
     </option>
@@ -299,12 +299,12 @@
       <workItem from="1583910048627" duration="13810000" />
       <workItem from="1583942609782" duration="8711000" />
       <workItem from="1583980562461" duration="2136000" />
-      <workItem from="1583996464328" duration="10356000" />
+      <workItem from="1583996464328" duration="11668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81140000" />
+    <option name="totallyTimeSpent" value="82452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -315,7 +315,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -559,10 +559,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DP/longest_triplet_subsequence.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/DP/longest_increasing_subsequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="195">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
         </state>
       </provider>
     </entry>
