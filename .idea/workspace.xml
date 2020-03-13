@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6efd5817-421b-49f1-9a45-dd7d6ba46f49" name="Default Changelist" comment="" />
+    <list default="true" id="6efd5817-421b-49f1-9a45-dd7d6ba46f49" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <SUITE FILE_PATH="coverage/The_Last_Lap$defaultlist.coverage" NAME="defaultlist Coverage Results" MODIFIED="1583857042119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$min_abs_difference_of_server_loads.coverage" NAME="min_abs_difference_of_server_loads Coverage Results" MODIFIED="1584103643995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google Assessment/Intern" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$list_comprehenstion.coverage" NAME="list_comprehenstion Coverage Results" MODIFIED="1583845688947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/The_Last_Lap$maximum_number_of_strawberries.coverage" NAME="maximum_number_of_strawberries Coverage Results" MODIFIED="1584129346159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google Assessment/Intern" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$maximum_time.coverage" NAME="maximum_time Coverage Results" MODIFIED="1584103317197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google Assessment/Intern" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$group_anagrams.coverage" NAME="group-anagrams Coverage Results" MODIFIED="1583777184751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$number_of_closed_islands.coverage" NAME="number_of_closed_islands Coverage Results" MODIFIED="1583924169925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
@@ -43,15 +46,33 @@
     <SUITE FILE_PATH="coverage/The_Last_Lap$number_of_operations_to_make_network_connected.coverage" NAME="number_of_operations_to_make_network_connected Coverage Results" MODIFIED="1584001711521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$house_robber.coverage" NAME="house_robber Coverage Results" MODIFIED="1584021005954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$array_manipulation.coverage" NAME="array-manipulation Coverage Results" MODIFIED="1583680932108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
-    <SUITE FILE_PATH="coverage/The_Last_Lap$relative_sort.coverage" NAME="relative_sort Coverage Results" MODIFIED="1584128723513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google Assessment/Intern" />
+    <SUITE FILE_PATH="coverage/The_Last_Lap$relative_sort.coverage" NAME="relative_sort Coverage Results" MODIFIED="1584129026623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google Assessment/Intern" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/greatest_common_divisor.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-53">
               <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/relative_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/maximum_number_of_strawberries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -80,8 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Array/2d-array-ds.py" />
-        <option value="$PROJECT_DIR$/Array/array: left-rotation.py" />
         <option value="$PROJECT_DIR$/Array/minimum-swaps-2.py" />
         <option value="$PROJECT_DIR$/String/making-anagrams.py" />
         <option value="$PROJECT_DIR$/String/alternating-characters.py" />
@@ -131,6 +150,8 @@
         <option value="$PROJECT_DIR$/Google Assessment/Intern/min_abs_difference_of_server_loads.py" />
         <option value="$PROJECT_DIR$/Google Assessment/New Grad/watering_flowers.py" />
         <option value="$PROJECT_DIR$/Google Assessment/Intern/greatest_common_divisor.py" />
+        <option value="$PROJECT_DIR$/Google Assessment/Intern/relative_sort.py" />
+        <option value="$PROJECT_DIR$/Google Assessment/Intern/maximum_number_of_strawberries.py" />
       </list>
     </option>
   </component>
@@ -200,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.relative_sort">
+  <component name="RunManager" selected="Python.maximum_number_of_strawberries">
     <configuration name="greatest_common_divisor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The Last Lap" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="largest_subarray_length_k" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="maximum_number_of_strawberries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The Last Lap" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,7 +257,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google Assessment/Intern/largest_subarray_length_k.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google Assessment/Intern/maximum_number_of_strawberries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.maximum_number_of_strawberries" />
         <item itemvalue="Python.relative_sort" />
         <item itemvalue="Python.greatest_common_divisor" />
         <item itemvalue="Python.min_abs_difference_of_server_loads" />
         <item itemvalue="Python.maximum_time" />
-        <item itemvalue="Python.largest_subarray_length_k" />
       </list>
     </recent_temporary>
   </component>
@@ -345,22 +366,23 @@
       <workItem from="1583980562461" duration="2136000" />
       <workItem from="1583996464328" duration="16264000" />
       <workItem from="1584035033757" duration="8308000" />
-      <workItem from="1584079548813" duration="18206000" />
+      <workItem from="1584079548813" duration="18822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113562000" />
+    <option name="totallyTimeSpent" value="114178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3121212" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3121212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,20 +404,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Array/array: left-rotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array/minimum-swaps-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/String/making-anagrams.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -706,6 +714,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-53">
           <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/relative_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/maximum_number_of_strawberries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
         </state>
       </provider>
     </entry>
