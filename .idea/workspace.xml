@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6efd5817-421b-49f1-9a45-dd7d6ba46f49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Google Assessment/Intern/compare_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Google Assessment/Intern/compare_strings.py" afterDir="false" />
-    </list>
+    <list default="true" id="6efd5817-421b-49f1-9a45-dd7d6ba46f49" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +25,7 @@
     <SUITE FILE_PATH="coverage/The_Last_Lap$balanced_brackets.coverage" NAME="balanced-brackets Coverage Results" MODIFIED="1583631531523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stack" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$longest_palindromic_substring.coverage" NAME="longest_palindromic_substring Coverage Results" MODIFIED="1584039142374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DP" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$ransom_note.coverage" NAME="ransom-note Coverage Results" MODIFIED="1583758710398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
+    <SUITE FILE_PATH="coverage/The_Last_Lap$largest_subarray_length_k.coverage" NAME="largest_subarray_length_k Coverage Results" MODIFIED="1584102503821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google Assessment/Intern" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$sherlock_and_the_valid_string.coverage" NAME="sherlock-and-the-valid-string Coverage Results" MODIFIED="1583720747905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$new_year_chaos.coverage" NAME="new-year-chaos Coverage Results" MODIFIED="1583666618532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$counter.coverage" NAME="counter Coverage Results" MODIFIED="1583857274074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
@@ -44,11 +43,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/compare_strings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/largest_subarray_length_k.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -116,6 +124,7 @@
         <option value="$PROJECT_DIR$/Google Assessment/Intern/most_booked_hotel_room_ii.py" />
         <option value="$PROJECT_DIR$/Google Assessment/Intern/most_booked_hotel_room.py" />
         <option value="$PROJECT_DIR$/Google Assessment/Intern/compare_strings.py" />
+        <option value="$PROJECT_DIR$/Google Assessment/Intern/largest_subarray_length_k.py" />
       </list>
     </option>
   </component>
@@ -185,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.compare_strings">
+  <component name="RunManager" selected="Python.largest_subarray_length_k">
     <configuration name="compare_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The Last Lap" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="longest_palindromic_subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="largest_subarray_length_k" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The Last Lap" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,12 +225,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Google Assessment/Intern" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/longest_palindromic_subsequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google Assessment/Intern/largest_subarray_length_k.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.largest_subarray_length_k" />
         <item itemvalue="Python.compare_strings" />
         <item itemvalue="Python.most_booked_hotel_room" />
         <item itemvalue="Python.most_booked_hotel_room_ii" />
         <item itemvalue="Python.unique_path" />
-        <item itemvalue="Python.longest_palindromic_subsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -330,12 +339,12 @@
       <workItem from="1583980562461" duration="2136000" />
       <workItem from="1583996464328" duration="16264000" />
       <workItem from="1584035033757" duration="8308000" />
-      <workItem from="1584079548813" duration="11932000" />
+      <workItem from="1584079548813" duration="13113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107288000" />
+    <option name="totallyTimeSpent" value="108469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -346,7 +355,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -682,6 +691,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/largest_subarray_length_k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
