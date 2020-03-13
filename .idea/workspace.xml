@@ -9,6 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/The_Last_Lap$pizza_shop.coverage" NAME="pizza_shop Coverage Results" MODIFIED="1584130435340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google Assessment/Intern" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$word_search.coverage" NAME="word_search Coverage Results" MODIFIED="1583944856348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$compare_strings.coverage" NAME="compare_strings Coverage Results" MODIFIED="1584101190292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Google Assessment/Intern" />
     <SUITE FILE_PATH="coverage/The_Last_Lap$intersection_of_two_arrays_ii.coverage" NAME="intersection-of-two-arrays-ii Coverage Results" MODIFIED="1583749333290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
@@ -67,11 +68,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/maximum_number_of_strawberries.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Google Assessment/New Grad/watering_flowers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/pizza_shop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -100,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Array/minimum-swaps-2.py" />
         <option value="$PROJECT_DIR$/String/making-anagrams.py" />
         <option value="$PROJECT_DIR$/String/alternating-characters.py" />
         <option value="$PROJECT_DIR$/String/sherlock-and-the-valid-string.py" />
@@ -147,10 +165,11 @@
         <option value="$PROJECT_DIR$/Google Assessment/Intern/maximum_time.py" />
         <option value="$PROJECT_DIR$/Google Assessment/Intern/min_abs_difference_of_server_locks.py" />
         <option value="$PROJECT_DIR$/Google Assessment/Intern/min_abs_difference_of_server_loads.py" />
-        <option value="$PROJECT_DIR$/Google Assessment/New Grad/watering_flowers.py" />
         <option value="$PROJECT_DIR$/Google Assessment/Intern/greatest_common_divisor.py" />
         <option value="$PROJECT_DIR$/Google Assessment/Intern/relative_sort.py" />
         <option value="$PROJECT_DIR$/Google Assessment/Intern/maximum_number_of_strawberries.py" />
+        <option value="$PROJECT_DIR$/Google Assessment/New Grad/watering_flowers.py" />
+        <option value="$PROJECT_DIR$/Google Assessment/Intern/pizza_shop.py" />
       </list>
     </option>
   </component>
@@ -220,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.watering_flowers">
+  <component name="RunManager" selected="Python.pizza_shop">
     <configuration name="greatest_common_divisor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The Last Lap" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="min_abs_difference_of_server_loads" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pizza_shop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The Last Lap" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,7 +297,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google Assessment/Intern/min_abs_difference_of_server_loads.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Google Assessment/Intern/pizza_shop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,11 +352,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pizza_shop" />
         <item itemvalue="Python.watering_flowers" />
         <item itemvalue="Python.maximum_number_of_strawberries" />
         <item itemvalue="Python.relative_sort" />
         <item itemvalue="Python.greatest_common_divisor" />
-        <item itemvalue="Python.min_abs_difference_of_server_loads" />
       </list>
     </recent_temporary>
   </component>
@@ -365,22 +384,23 @@
       <workItem from="1583980562461" duration="2136000" />
       <workItem from="1583996464328" duration="16264000" />
       <workItem from="1584035033757" duration="8308000" />
-      <workItem from="1584079548813" duration="19374000" />
+      <workItem from="1584079548813" duration="19897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114730000" />
+    <option name="totallyTimeSpent" value="115253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3121212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,7 +409,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3257329" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3257329" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -402,13 +422,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/String/making-anagrams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/String/alternating-characters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -670,9 +683,6 @@
     <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/most_booked_hotel_room_ii.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Google Assessment/New Grad/watering_flowers.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/compare_strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -726,6 +736,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google Assessment/New Grad/watering_flowers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google Assessment/Intern/pizza_shop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
         </state>
       </provider>
     </entry>
