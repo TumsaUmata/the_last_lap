@@ -33,7 +33,7 @@ class Solution2:
         In this solution, we need to first initialize a mapping for each valid bracket combination.
         Then, we create a stack using a Python list.
         This is essentially the push and pop method.
-        We add any opening bracket (i.e., (, {, [) to the stack.
+        We add any opening bracket (booked_item.e., (, {, [) to the stack.
         Since we have a mapping of the corresponding closed bracket in the dictionary,
         we can use the last entered opening bracket in our stack to verify if the closing bracket is correct.
 

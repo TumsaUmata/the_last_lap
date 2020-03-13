@@ -1,6 +1,6 @@
 # Find the sum of the first 1000 perfect squares, starting with 1
 def sum_upto_n(number):
-    # return sum([i * i for i in range(1, number+1)])
+    # return sum([booked_item * booked_item for booked_item in range(1, number+1)])
     """
         It’s making a list of every perfect square you’ve requested and summing them all.
         A list with 1000 perfect squares may not be large in computer-terms,
