@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6efd5817-421b-49f1-9a45-dd7d6ba46f49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6efd5817-421b-49f1-9a45-dd7d6ba46f49" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,17 @@
     <SUITE FILE_PATH="coverage/The_Last_Lap$array_manipulation.coverage" NAME="array-manipulation Coverage Results" MODIFIED="1583680932108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Linked List/linked_list_cycle_ii.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,6 +104,8 @@
         <option value="$PROJECT_DIR$/DP/palindromic_substrings.py" />
         <option value="$PROJECT_DIR$/DP/longest_palindromic_subsequence.py" />
         <option value="$PROJECT_DIR$/DP/unique_path.py" />
+        <option value="$PROJECT_DIR$/Linked List/linked_list_cycle.py" />
+        <option value="$PROJECT_DIR$/Linked List/linked_list_cycle_ii.py" />
       </list>
     </option>
   </component>
@@ -120,6 +130,11 @@
             <path>
               <item name="The Last Lap" type="b2602c69:ProjectViewProjectNode" />
               <item name="The Last Lap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Last Lap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Last Lap" type="462c0819:PsiDirectoryNode" />
+              <item name="Linked List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,15 +313,16 @@
       <workItem from="1583980562461" duration="2136000" />
       <workItem from="1583996464328" duration="16264000" />
       <workItem from="1584035033757" duration="8308000" />
-      <workItem from="1584079548813" duration="2182000" />
+      <workItem from="1584079548813" duration="4214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97538000" />
+    <option name="totallyTimeSpent" value="99570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3121212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -611,6 +627,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/linked_list_cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linked List/linked_list_cycle_ii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
     </entry>
