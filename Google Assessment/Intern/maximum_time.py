@@ -1,22 +1,22 @@
-def maximum_time(time):
-    if time[0] == "?":
-        if time[1] != "?":
-            if int(time[1]) > 3:
-                time = "1" + time[1:]
+def maximum_time(T):
+    if T[0] == "?":
+        if T[1] != "?":
+            if int(T[1]) > 3:
+                T = "1" + T[1:]
             else:
-                time = "2" + time[1:]
+                T = "2" + T[1:]
         else:
-            time = "2" + time[1:]
-    if time[1] == "?":
-        if time[0] == "2":
-            time = time[:1] + "3" + time[2:]
+            T = "2" + T[1:]
+    if T[1] == "?":
+        if T[0] == "2":
+            T = T[:1] + "3" + T[2:]
         else:
-            time = time[:1] + "9" + time[2:]
-    if time[3] == "?":
-        time = time[:3] + "5" + time[4:]
-    if time[4] == "?":
-        time = time[:4] + "9"
-    return time
+            T = T[:1] + "9" + T[2:]
+    if T[3] == "?":
+        T = T[:3] + "5" + T[4:]
+    if T[4] == "?":
+        T = T[:4] + "9"
+    return T
 
 
 def main():
