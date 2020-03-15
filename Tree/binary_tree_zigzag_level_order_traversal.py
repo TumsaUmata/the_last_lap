@@ -12,27 +12,27 @@ class Solution:
     def zigzagLevelOrderNoReverse(self, root):
         if not root:
             return []
-        res, q = [], deque()
+        result, queue = [], deque()
         zigzag = False
-        q.appendleft(root)
-        while q:
-            cnt = len(q)
+        queue.appendleft(root)
+        while queue:
+            cnt = len(queue)
             level = []
             for _ in range(cnt):
                 if zigzag:
-                    node = q.pop()
+                    node = queue.pop()
                     level.append(node.val)
                     if node.right:
-                        q.appendleft(node.right)
+                        queue.appendleft(node.right)
                     if node.left:
-                        q.appendleft(node.left)
+                        queue.appendleft(node.left)
                 else:
-                    node = q.popleft()
+                    node = queue.popleft()
                     level.append(node.val)
                     if node.left:
-                        q.append(node.left)
+                        queue.append(node.left)
                     if node.right:
-                        q.append(node.right)
-            res.append(level)
+                        queue.append(node.right)
+            result.append(level)
             zigzag = not zigzag
-        return res
+        return result
