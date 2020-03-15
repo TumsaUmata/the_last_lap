@@ -13,13 +13,13 @@ class Solution:
         if not root:
             return []
         result, queue = [], deque()
-        zigzag = False
+        flag = False
         queue.appendleft(root)
         while queue:
-            cnt = len(queue)
+            length = len(queue)
             level = []
-            for _ in range(cnt):
-                if zigzag:
+            for _ in range(length):
+                if flag:
                     node = queue.pop()
                     level.append(node.val)
                     if node.right:
@@ -34,5 +34,5 @@ class Solution:
                     if node.right:
                         queue.append(node.right)
             result.append(level)
-            zigzag = not zigzag
+            flag = not flag
         return result
